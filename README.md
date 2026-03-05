@@ -8,6 +8,19 @@ Această aplicație C++ rulează în consolă și oferă funcționalități pent
   <img src="./Hotel_Management/screenshoots/Screenshoot_2.png" width="390" height="350">
   <img src="./Hotel_Management/screenshoots/Screenshoot_3.png" width="390" height="350">
   <img src="./Hotel_Management/screenshoots/Screenshoot_4.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_5.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_6.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_7.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_8.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_9.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_10.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_11.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_12.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_13.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_14.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_15.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_16.png" width="390" height="350">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_17.png" width="390" height="350">
 </p>
 
 ## Categorii de utilizatori
