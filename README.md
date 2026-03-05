@@ -4,10 +4,10 @@
 Această aplicație C++ rulează în consolă și oferă funcționalități pentru gestionarea completă a unui hotel: de la clienți și camere, până la rezervări. Proiectul este bazat pe Programare Orientată pe Obiect și are două categorii principale de utilizatori: **Recepționer** și **Administrator**.
 
 <p align="center">
-  <img src="./Hotel_Management/screenshoots/Screenshoot_1.png" width="300">
-  <img src="./Hotel_Management/screenshoots/Screenshoot_2.png" width="300">
-  <img src="./Hotel_Management/screenshoots/Screenshoot_3.png" width="300">
-  <img src="./Hotel_Management/screenshoots/Screenshoot_4.png" width="300">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_1.png" width="500">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_2.png" width="500">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_3.png" width="500">
+  <img src="./Hotel_Management/screenshoots/Screenshoot_4.png" width="500">
 </p>
 
 ## Categorii de utilizatori
